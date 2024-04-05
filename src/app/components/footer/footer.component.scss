@@ -1,0 +1,13 @@
+.app-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 70px;
+
+    .socials {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+}
