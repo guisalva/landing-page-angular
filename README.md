@@ -1,27 +1,57 @@
-# LandingPageAngular
+# Angular - Landing Page com envio de formulário
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+Esta é a minha primeira aplicação utilizando o framework [Angular](https://github.com/angular/angular-cli).
+O projeto foi disponibilizado e ensinado em live pela [Fernanda Kipper](https://github.com/Fernanda-Kipper).
+
+## Sumário
+
+- [**Visão Geral**](#visão-geral)
+  - [**O desafio**](#o-desafio)
+  - [**Capturas de Tela**](#capturas-de-tela)
+  - [**Executando**](#executando)
+- [**Meu Processo**](#meu-processo)
+  - [**Construído com**](#construído-com)
+  - [**O que aprendi**](#o-que-aprendi)
+- [**Autor**](#autor)
+
+# Visão Geral
+
+### O Desafio
+
+O desafio desse projeto era a criação de uma landing page sobre um empresa de consultoria, e nesse site tinhamos um "newsletter", que nada mais é do que um formulário para receber notícias futuras cadastrando seu nome e e-mail.
+
+Foi realizada toda a criação de componentes para compor o HTML principal, e a criação do newsletter apenas com a conectividade com uma API.
+
+### Capturas de Tela
+
+Aqui está uma captura de tela do projeto.
+
+![](/src/assets/screenshots/screenshot-landing-page.png)
+
+
+### Executando
+- URL do Site Ativo: [Veja o site em execução aqui!](https://guisalva.github.io/Quest-Html-Css-Js-Intermediario/)
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+# Meu Processo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Construído com
 
-## Build
+[![Angular](https://skillicons.dev/icons?i=angular)](https://github.com/angular/angular-cli) 
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![Sass](https://skillicons.dev/icons?i=scss)](https://sass-lang.com/)
+[![HTML](https://skillicons.dev/icons?i=html)](/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Google Fonts](https://fonts.google.com/)
 
-## Running unit tests
+### O que aprendi
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Com este projeto, pude ter uma primeira impressão sobre a linguagem suas características e as principais diferenças quando comparada com outros frameworks.
 
-## Running end-to-end tests
+# Autor
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- GitHub - [GuiSalva](https://github.com/guisalva)
+- LinkedIn - [Guilherme Salvador](https://www.linkedin.com/in/guisalva)
