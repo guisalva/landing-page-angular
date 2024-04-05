@@ -29,12 +29,9 @@ Aqui está uma captura de tela do projeto.
 ![](/src/assets/screenshots/screenshot-landing-page.png)
 
 
-### Executando
-- URL do Site Ativo: [Veja o site em execução aqui!](https://guisalva.github.io/Quest-Html-Css-Js-Intermediario/)
+### Executando em Server de Desenvolvimento
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Ao baixar o projeto executar `ng serve` para a aplicação subir em um server de desenvolvimento. Navegue até `http://localhost:4200/`. A aplicação recarregará automaticamente caso haja alguma alteração na pasta do projeto.
 
 # Meu Processo
 
